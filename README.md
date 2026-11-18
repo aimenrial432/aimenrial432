@@ -43,9 +43,6 @@ Mi enfoque combina la estabilidad operativa de sistemas multiplataforma (**Windo
 * 🖥️ **[sysadmin-infra-labs](https://github.com/aimenrial432/sysadmin-infra-labs)** *(Sistemas / Redes / Hardening)*  
   Colección de laboratorios reproducibles y *runbooks* técnicos sobre bastionado de servidores Linux, control de acceso SSH/UFW, automatización en Bash y despliegue seguro de servicios.
 
-* ☸️ **Kubernetes Administration & Security Labs** *(CKA Prep)*  
-  Prácticas de administración de clústeres Kubernetes, resolución de incidencias en planos de control, gestión de certificados TLS/PKI y políticas de red.
-
 ---
 
 ### 📈 Experiencia Destacada en Producción
