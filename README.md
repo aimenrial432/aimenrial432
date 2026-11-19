@@ -37,9 +37,6 @@ Mi enfoque combina la estabilidad operativa de sistemas multiplataforma (**Windo
 
 ### 📌 Proyectos & Laboratorios Destacados
 
-* 🔍 **[aimenreco](https://github.com/aimenrial432/aimenreco)** *(Python / SecOps)*  
-  Framework modular de reconocimiento web y *fuzzing* adaptativo diseñado para suprimir ruido de red, gestionar concurrencia dinámica y evaluar controles perimetrales en entornos controlados.
-
 * 🖥️ **[sysadmin-infra-labs](https://github.com/aimenrial432/sysadmin-infra-labs)** *(Sistemas / Redes / Hardening)*  
   Colección de laboratorios reproducibles y *runbooks* técnicos sobre bastionado de servidores Linux, control de acceso SSH/UFW, automatización en Bash y despliegue seguro de servicios.
 
