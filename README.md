@@ -40,6 +40,9 @@ Mi enfoque combina la estabilidad operativa de sistemas multiplataforma (**Windo
 * 🖥️ **[sysadmin-infra-labs](https://github.com/aimenrial432/sysadmin-infra-labs)** *(Sistemas / Redes / Hardening)*  
   Colección de laboratorios reproducibles y *runbooks* técnicos sobre bastionado de servidores Linux, control de acceso SSH/UFW, automatización en Bash y despliegue seguro de servicios.
 
+- 🛠️ **[sysops-toolkit](https://github.com/aimenrial432/sysops-toolkit)** *(Python / SysOps / Blue Team)*  
+  Suite modular de herramientas CLI con procesamiento en *streaming* (`O(1)` en memoria) para triaje defensivo de logs SSH (`log_sentinel`), detección de fuerza bruta con exportación JSON, pruebas unitarias con `pytest` y CI automatizado en GitHub Actions. 
+
 ---
 
 ### 📈 Experiencia Destacada en Producción
