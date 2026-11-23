@@ -30,7 +30,7 @@ Mi enfoque combina la estabilidad operativa de sistemas multiplataforma (**Windo
 * **Sistemas & CPD:** Windows Server, Linux (Debian/Ubuntu, Arch), Gestión de CPD (+150 servidores), Hardware Blades (Dell iDRAC, HPE iLO), Copias de seguridad y recuperación.
 * **Redes & Monitorización:** TCP/IP, VLANs, Routing & Switching, VPN (WireGuard), Nagios (monitorización 24x7), análisis de tráfico.
 * **Ciberseguridad:** Auditoría técnica (caja negra y gris), Seguridad Perimetral (UFW/iptables), PKI y gestión de certificados, análisis de vulnerabilidades y bastionado de servicios.
-* **Contenedores & Orquestación:** Docker, Kubernetes (diagnóstico de despliegues, certificados y seguridad de clúster; preparando certificación **CKA**).
+* **Contenedores & Orquestación:** Docker, Kubernetes (diagnóstico de despliegues, certificados y seguridad de clúster).
 * **Automatización & Datos:** Python (automatización operativa, APIs, scraping con Selenium/BeautifulSoup), Bash, SQL (Oracle, MySQL, PostgreSQL).
 
 ---
