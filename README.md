@@ -16,7 +16,7 @@ Mi enfoque combina la estabilidad operativa de sistemas multiplataforma (**Windo
 
 | Área | Credencial / Titulación | Institución |
 | :--- | :--- | :--- |
-| **Networking** | **Cisco CCNA** (Routing & Switching)[cite: 21] | Cisco |
+| **Networking** | **Cisco CCNA** (Routing & Switching) | Cisco |
 | **Ciberseguridad** | **Cisco CCNA Cybersecurity Operations (CyberOps)** | Cisco |
 | **Programación** | **PCAP™ – Certified Associate in Python Programming**| Python Institute |
 | **Grado Universitario** | **Grado en Ingeniería Informática** *(en curso)*| Universitat Oberta de Catalunya (UOC) |
@@ -47,9 +47,9 @@ Mi enfoque combina la estabilidad operativa de sistemas multiplataforma (**Windo
 
 ### 📈 Experiencia Destacada en Producción
 
-* **Técnico de Operaciones de Sistemas (CPD) — Versia** *(2022 – 2026)*: Operación y monitorización 24x7 de +150 servidores críticos (sector retail/alimentación), administración Windows/Linux, gestión de Blades vía iDRAC/iLO, backups y diagnóstico de bases de datos Oracle/MySQL.
-* **Analista de Ciberseguridad y Auditoría — Barbara** *(2022)*: Auditorías de caja negra y gris sobre plataformas industriales PLC/IoT, revisión de despliegues en Kubernetes y gestión de certificados PKI.
-* **Especialista en Automatización Python — Seobide** *(2021)*: Desarrollo de pipelines de sincronización automatizada y extracción de datos en tiempo real mediante Python y APIs.
+* **Técnico de Operaciones de Sistemas (CPD) — Versia** *(Ago 2022 – Feb 2026)*: Operación y monitorización 24x7 de +150 servidores críticos (sector retail/alimentación), administración Windows/Linux, gestión de Blades vía iDRAC/iLO, backups y diagnóstico de bases de datos Oracle/MySQL.
+* **Analista de Ciberseguridad y Auditoría — Barbara** *(May 2022 - Jul 2022)*: Auditorías de caja negra y gris sobre plataformas industriales PLC/IoT, revisión de despliegues en Kubernetes y gestión de certificados PKI.
+* **Especialista en Automatización Python — Seobide** *(Abr 2021 - Jun 2021)*: Desarrollo de pipelines de sincronización automatizada y extracción de datos en tiempo real mediante Python y APIs.
 
 <!--
 **aimenrial432/aimenrial432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
